@@ -1,0 +1,50 @@
+/* Add your custom styles for header, navigation, and other elements here */
+body {
+    background-color: rgb(20, 20, 20);
+    color: rgb(255, 255, 255);
+    font-family: "nimbus-sans", sans-serif;
+    font-size: 20px;
+}
+
+header {
+    background-color: rgb(20, 20, 20);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 20px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0;
+}
+
+/* Style the introduction section */
+.Introduction__Container-sc-vpuy3t-0 {
+    /* Add custom styles for the introduction section background, title, and description */
+}
+
+/* Style the services list, clients list, and about content */
+.ServicesList__Container-sc-r2c5w1-0 {
+    /* Customize the styles for your services list */
+}
+
+.ClientsList__Container-sc-j2envp-0 {
+    /* Customize the styles for your clients' logos or information */
+}
+
+.AboutContent__Container-sc-dlon0c-0 {
+    /* Add styles for the About Us section */
+}
+
+/* Customize other sections and elements as needed */
